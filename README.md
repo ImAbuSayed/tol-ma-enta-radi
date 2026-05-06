@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Tol Ma Enta Radi |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tol-ma-enta-radi/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for Tol Ma Enta Radi](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
