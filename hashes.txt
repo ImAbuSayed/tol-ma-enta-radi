@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tol Ma Enta Radi
+
+This log tracks the cryptographic history and versioning for the song **Tol Ma Enta Radi** (tol-ma-enta-radi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:14:35.623197 | `v1` | `9e292c3685046a4d3c7254a76d01c62284f42f1db5999b5b72053173e3611297` | `045b030259da2a93bc32ebcc89bdb2e37d9265f551fc9ab575f6fc9b58e65e58` | `2026-05-08_tol-ma-enta-radi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
